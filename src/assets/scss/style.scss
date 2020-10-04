@@ -29,7 +29,7 @@
     margin-left: 20px;
   }
   a {
-    color: rgba(255,255,255,0.6);
+    color: #fff;
     text-decoration: none;
     &:hover {
       color: rgba(255,255,255,0.8);
@@ -73,7 +73,7 @@
       right: 0;
       top: 100%;
       z-index: 1;
-      background: #421E2F;
+      background: #8CBA2A;
       width: 100%;
 			max-width: 320px;    
 			border-radius: 0 0 0 12px;
@@ -260,7 +260,7 @@ article img {
 	align-items: center;
 	padding: var(--padding) calc(var(--padding) * 2);
 	background-color: var( --button-alternate-color);
-	color: var(--button-color);
+	color: #fff;
 	border-radius: 12px;
 	text-decoration: none;
 	appearance: none;
@@ -269,8 +269,8 @@ article img {
 	line-height: 1;
 	transition: background .3s linear;
 	&:hover {
-		background-color: var(--button-color);
-		color: var( --button-alternate-color);
+		background-color: #8CBA2A;
+		color: #fff;
 	}
 	&.-outline {
 		color: var(--primary-color);

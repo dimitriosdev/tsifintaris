@@ -1,11 +1,11 @@
 {
   "meta": {
-    "title": "Λογιστικές Υπηρεσίες",
+    "title": "Λογιστής",
     "titleTemplate": "%s",
-    "description": "A starter to launch your blazing fast personal website and a blog, Built with Gatsby and Netlify CMS. Made with ❤ by Stackrole",
-    "siteUrl": "https://foundation.stackrole.com",
+    "description": "Λογιστικές υπηρεσίες, τήρηση βιβλίων ",
+    "siteUrl": "https://www.tsifintaris.com",
     "image": "/assets/stackrole.png",
-    "twitterUsername": "@stackrole"
+    "twitterUsername": "@tsifintaris"
   },
   "ga": "UA-XXXXXXXXX-X"
 }
