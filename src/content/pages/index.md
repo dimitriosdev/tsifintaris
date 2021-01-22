@@ -3,9 +3,10 @@ template: index-page
 slug: /
 title: Αθανάσιος Τσιφιντάρης
 tagline: Λογιστής
-featuredImage: /assets/toa-heftiba-0rlfirsdvzu-unsplash.jpg
+featuredImage: /assets/pexels-andrea-piacquadio-842567.jpg
 cta:
-  ctaText: Know more
+  ctaText: Περισσότερα
   ctaLink: /about
 ---
-He is a award winning gaming graphic designer, based in sunny side of California. Working as Principal designer at Bethesda
+Υπηρεσίες **λογιστικού και συμβουλευτικού χαρακτήρα** για \
+Ιδιώτες και Επιχειρήσεις με στόχο το οικονομικό όφελος.
