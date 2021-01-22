@@ -1,6 +1,6 @@
 ---
 template: blog-post
-title: Οι υπηρεσίες μας
+title: Υπηρεσίες για ιδιώτες
 slug: /character-design
 date: 2021-01-22 13:33
 description: Αναλυτικά οι υπηρεσίες
