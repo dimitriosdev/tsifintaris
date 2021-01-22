@@ -1,12 +1,14 @@
 ---
 template: blog-post
-title: "Υποχρεωτική από 1/1/2021 η ψηφιακή διαβίβαση των παραστατικών "
+title: "Ψηφιακή διαβίβαση των παραστατικών "
 slug: /ipoxreotikidiavivasi
 date: 2020-05-13 12:46
 description: Diavivastiko parastatikon
-featuredImage: /assets/bench-accounting-nvzvopqw0gc-unsplash.jpg
+featuredImage: /assets/pexels-armin-rimoldi-5553926.jpg
 ---
-Δελτίο Τύπου
+### Υποχρεωτική από 1/1/2021 η ψηφιακή διαβίβαση των παραστατικών
+
+##### Δελτίο Τύπου
 
 Έναρξη της ψηφιακής πλατφόρμας myDATA για όλες τις επιχειρήσεις
 
