@@ -75,6 +75,15 @@ module.exports = {
         trackingId: settings.ga,
       },
     },
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [
+          `Source Serif Pro\:400,700` 
+        ],
+        display: 'swap'
+      }
+    },
     `gatsby-plugin-advanced-sitemap`,
     {
       resolve: `gatsby-plugin-manifest`,

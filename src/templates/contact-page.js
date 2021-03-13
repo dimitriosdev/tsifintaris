@@ -1,6 +1,5 @@
 import React from "react"
 import { graphql } from "gatsby"
-import {RiSendPlane2Line} from "react-icons/ri";
 
 import Layout from "../components/layout"
 import SEO from "../components/seo"
